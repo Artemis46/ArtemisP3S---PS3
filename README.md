@@ -1,5 +1,5 @@
 # ArtemisP3S v1.1 Emulator Android
-Ps3 Emulator Project For Android is a high-performance Ps3 emulator for android.\
+ArtemisP3S Emulator For Android is a high-performance Ps3 emulator for android.\
 You will easily be able to play popular games on the Ps3.
 
 No games are included with this download.\
