@@ -12,7 +12,7 @@ Dump your own real Switch games and turn them into .ISO files,put on your SD car
 If you have any questions or problems with this App,\
 please contact us and we will respond as quickly as possible to help you.
 
-** IMPORTANT: Ps3 Emulator Project DOESN'T INCLUDE GAMES. GAMES MUST BE PROVIDED BY THE USER **
+** IMPORTANT: ArtemisP3S Emulator DOESN'T INCLUDE GAMES. GAMES MUST BE PROVIDED BY Artemis **
 
 # This Project does not contain games, to include games please follow the guide inside the application.
 # This product is not affiliated with, nor authorized, endorsed or licensed in any way by any company, affiliates or subsidiaries.
@@ -21,4 +21,4 @@ please contact us and we will respond as quickly as possible to help you.
 # ll individual game screen shots or audio that are simulated by this software are property of their respective copyright holders and are only used in this app listing for the purpose of informing the customer of the software's functionality.
 # If there is any trademark or copyright violation that does not follow within the Fair Use, please contact us and we will immediately take action on it.
 
-LEGAL: All individual game screen shots or audio that are simulated by this software are property of their respective copyright holders and are only used in this app listing for the purpose of informing the customer of the software's functionality.\
+LEGAL: All individual game screen shots or audio that are simulated by this software are property of their respective copyright holders and are only used in this app listing for the purpose of informing the customer of the software's functionality.
