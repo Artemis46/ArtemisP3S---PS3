@@ -1,12 +1,12 @@
 # ArtemisP3S v1.1 Emulator Android
-ArtemisP3S Emulator For Android is a high-performance Ps3 emulator for android.\
-You will easily be able to play popular games on the Ps3.
+ArtemisP3S Emulator For Android is a high-performance PS3 emulator for android.\
+You will easily be able to play popular games on the PS3.
 
 No games are included with this download.\
 Dump your own real Switch games and turn them into .ISO files,put on your SD card/USB storage.
 
 [Supports file extension]
-.bin, .mdf, .pbp, .iso, .toc, .cbn, .m3u, zip, .img, .cue, 7z\
+.bin, .mdf, .pbp, .iso, .toc, .cbn, .m3u, zip, .img, .gz. .cue, 7z\
 * Some images come as a .ecm file. These will not work in this emuator.
 
 If you have any questions or problems with this App,\
